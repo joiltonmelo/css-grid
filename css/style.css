@@ -77,7 +77,7 @@ border-radius: 0.8em;
 .box-1 { 
 grid-area: box-1; 
 color:hsl(0, 0%, 100%);
-background: url(./img/bg-pattern-quotation.svg) no-repeat, hsl(263, 55%, 52%);
+background: url(../img/bg-pattern-quotation.svg) no-repeat, hsl(263, 55%, 52%);
 background-position: top right 1.5em;
 }
 
